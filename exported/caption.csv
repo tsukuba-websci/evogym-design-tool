@@ -1,0 +1,104 @@
+﻿index,caption-jp,caption-en
+1,短く簡単で、段差が1つあるEvolution Gym環境,"An Evolution Gym environment with a single step, short and simple."
+2,高いところからスタートし、徐々に短い階段を降りるEvolution Gym環境,"Evolution Gym environment with a high starting point, gradually descending short steps."
+3,中間に小さな穴のある平坦で短いEvolution Gym環境,Flat and short Evolution Gym environment with a small hole in the middle.
+4,柔らかいブロックに挟まれた、地面と少し凹凸のある天井がある短いEvolution Gym環境,"Short Evolution Gym environment with soft blocks, uneven ceiling, and ground."
+5,階段状のブロックを登ったり下ったりを繰り返すEvolution Gym環境,Evolution Gym environment involving repeated climbing up and down stair-like blocks.
+6,スタート地点の近くに小さな穴があり、その後階段状のブロックを降りていく少し複雑なEvolution Gym環境,"Slightly complex Evolution Gym environment near the starting point, with a small hole followed by descending stair-like blocks."
+7,低い位置からスタートし、階段を上っていくEvolution Gym環境,Evolution Gym environment starting from a low position and ascending a staircase.
+8,何もない平坦で短めなEvolution Gym環境,Evolution Gym environment that is flat and short with nothing present.
+9,少し段差があり、段差が終わると柔らかいブロックに落下するEvolution Gym環境,"Evolution Gym environment with a slight step, leading to falling onto soft blocks after the step."
+10,穴が多く、柔らかいブロックが並ぶEvolution Gym環境,Evolution Gym environment with multiple holes and rows of soft blocks.
+11,中央部が徐々に低くなっているEvolution Gym環境,Evolution Gym environment with a gradually lowering center.
+12,高いところからスタートし、1つ段差のあるEvolution Gym環境,"Starting from a high point, an Evolution Gym environment with a single step."
+13,最初に段差があり、2か所に障害物のある少し長いEvolution Gym環境,"Initially featuring a step and two obstacles, a slightly longer Evolution Gym environment."
+14,複雑で高さと天井があり、一部ソフトブロックの地面があるEvolution Gym環境,"A complex environment with varying heights, ceilings, and parts of the ground made of soft blocks in Evolution Gym."
+15,平坦な道の後、少し段差を上り、その後小さな穴のある、全て柔らかいブロックからなるEvolution Gym環境,"After a flat path, ascending a small step, followed by an Evolution Gym environment composed entirely of soft blocks with small holes."
+16,低い位置からスタートする階段状のブロックと浮いているブロックのある縦長のEvolution Gym環境,"A vertically oriented Evolution Gym environment with stair-like blocks and floating blocks, starting from a low position."
+17,始めは段差が多く、その後低い位置に少し長い平坦な道と穴のあるEvolution Gym環境,"Beginning with multiple steps, followed by a slightly long flat path and holes, an Evolution Gym environment."
+18,低い位置に固いブロックの平坦な道が続くEvolution Gym環境,A flat path of solid blocks continuing from a low position in the Evolution Gym environment.
+19,シンプルな平坦な短い道があるEvolution Gym環境,"An Evolution Gym environment with a simple, flat, and short path."
+20,平坦な道が続いたのち、少し高さのある浮いたブロックが続き、穴のある横長のEvolution Gym環境,"Following a flat path, elevated blocks with some height and a horizontal Evolution Gym environment with holes."
+21,全て柔らかいブロックからなる平坦で長く、簡単なEvolution Gym環境,"An Evolution Gym environment that is flat, long, and simple, made entirely of soft blocks."
+22,全て柔らかいブロックからなる平坦で長い道に、障害物が2つあるEvolution Gym環境,"Evolution Gym environment with a long, flat path made entirely of soft blocks, featuring two obstacles."
+23,短いブロックが低い位置に複数あるEvolution Gym環境,Evolution Gym environment with multiple short blocks at a low position.
+24,高い位置から始まり、徐々に地面が下がっていくEvolution Gym環境,"Starting from a high position, an Evolution Gym environment where the ground gradually slopes down."
+25,少し高い壁が３つあるEvolution Gym環境,An Evolution Gym environment with three slightly higher walls.
+26,平らではない地面からなるEvolution Gym環境,An Evolution Gym environment with an uneven ground surface.
+27,平らな長い地面の一部領域が柔らかいブロックであり、そこに突起物があるEvolution Gym環境,A portion of the long flat ground in the Evolution Gym environment consists of soft blocks with protrusions.
+28,平らな長い地面に柔らかい低い壁があるEvolution Gym環境,"In the Evolution Gym environment, a long flat ground has low soft walls."
+29,地面の一部に柔らかいポケット形状の窪みがあるEvolution Gym環境,"Evolution Gym environment with soft, pocket-shaped recesses in parts of the ground."
+30,地面に大きな窪みのあるEvolution Gym環境,Evolution Gym environment with a large depression in the ground.
+31,地面に小さな窪みのあるEvolution Gym環境,Evolution Gym environment with small depressions in the ground.
+32,少し地面が盛り上がった簡単なEvolution Gym環境,A simple Evolution Gym environment with a slightly raised ground.
+33,平らな地面の後、大きな穴があり、L字型にブロックが並ぶEvolution Gym環境,"Following a flat ground, there's a large hole and an arrangement of blocks in an L shape in the Evolution Gym environment."
+34,簡単な階段状のEvolution Gym環境,An easy staircase-shaped Evolution Gym environment.
+35,柔らかいブロックが階段状になっているEvolution Gym環境,Evolution Gym environment with soft blocks arranged in a staircase pattern.
+36,大きな穴のあるEvolution Gym環境,An Evolution Gym environment with a large hole.
+37,始点からすぐのところに高い壁があり、その後も起伏の大きいEvolution Gym環境,"There's a tall wall near the starting point, and then the Evolution Gym environment features significant undulations."
+38,トンネル形状で内側に柔らかいブロックがある穴のないEvolution Gym環境,A tunnel-shaped Evolution Gym environment with no holes and soft blocks on the inside.
+39,少し複雑なトンネル形状で小さな穴のあるEvolution Gym環境,Slightly complex tunnel-shaped Evolution Gym environment with small holes.
+40,高い位置から徐々に下がっていく簡単で少し長いEvolution Gym環境,"Starting from a high position and gradually descending, a slightly long and simple Evolution Gym environment."
+41,小さい壁があり、その後僅かな段差が上下を繰り返すEvolution Gym環境,An Evolution Gym environment with small walls followed by slight alternating steps.
+42,等間隔に棒状のオブジェクトが並んだ、穴の多いEvolution Gym環境,An Evolution Gym environment with evenly spaced rod-shaped objects and numerous holes.
+43,徐々に高くなる等間隔の棒状のオブジェクトが並んだ、穴の多いEvolution Gym環境,An Evolution Gym environment with evenly spaced rod-shaped objects gradually increasing in height and many holes.
+44,固いブロックと柔らかいブロックが交互に並んだ平坦で長いEvolution Gym環境,"A long, flat Evolution Gym environment with alternating rows of solid and soft blocks."
+45,全体的に低い位置にブロックがあり、途中に小さな山の形状がある複雑で長いEvolution Gym環境,A complex and long Evolution Gym environment with blocks mostly at a low level and small mountain-like shapes along the way.
+46,低い位置から始まり、少し段差と穴があったのち、高い位置にブロックが並ぶ短めなEvolution Gym環境,"Starting from a low position, a short Evolution Gym environment with slight steps and holes, followed by blocks at a higher position."
+47,山のような形状があるだけのEvolution Gym環境,An Evolution Gym environment consisting solely of mountain-like shapes.
+48,ブロックで埋め尽くされた山のような形状のEvolution Gym環境,An Evolution Gym environment with mountain-like shapes filled with blocks.
+49,ブロックで埋め尽くされた山のような形状に穴のあるEvolution Gym環境,An Evolution Gym environment with mountain-like shapes filled with blocks and holes.
+50,高いところからスタートし、落下した先にクッションのあるEvolution Gym環境,"Starting from a high point, an Evolution Gym environment where there's a cushion after falling."
+51,複雑な徐々に高くなる短めなEvolution Gym環境,A short and complex Evolution Gym environment with gradually increasing height.
+52,複雑な徐々に高くなる短めで柔らかいブロックを含むEvolution Gym環境,A short Evolution Gym environment that's complex with gradually increasing height and soft blocks.
+53,小さな穴があり、少し段差があるシンプルで簡単なEvolution Gym環境,A simple and easy Evolution Gym environment with small holes and slight steps.
+54,少し段差を下がるだけのシンプルで簡単なEvolution Gym環境,A simple and easy Evolution Gym environment where there's a slight descent in steps.
+55,平坦な道に穴があるだけの簡単なEvolution Gym環境,A simple and easy Evolution Gym environment with holes in a flat path.
+56,階段状のブロックを3段下るEvolution Gym環境,An Evolution Gym environment involving descending three steps of stair-like blocks.
+57,柔らかいブロックがすり鉢状に並ぶ少し長いEvolution Gym環境,A slightly longer Evolution Gym environment with soft blocks arranged in a mortar shape.
+58,厚めの地面からなる長く高さもあるEvolution Gym環境,A long Evolution Gym environment with thickness and varying height.
+59,トンネル形状の内側が柔らかいブロックからなっている複雑で難しいEvolution Gym環境,A complex and challenging Evolution Gym environment with a tunnel-shaped inside made of soft blocks.
+60,障害物のある少し長いEvolution Gym環境,A slightly longer Evolution Gym environment with obstacles.
+61,ランダムな階段形状のEvolution Gym環境,An Evolution Gym environment with a random staircase shape.
+62,ランダムな下り階段のEvolution Gym環境,Evolution Gym environment with randomly descending stairs.
+63,平坦でシンプルで簡単なEvolution Gym環境,"A flat, simple, and easy Evolution Gym environment."
+64,段差のない道に穴があるEvolution Gym環境,Evolution Gym environment with holes on a stepless path.
+65,段差と穴のあるEvolution Gym環境,"Evolution Gym environment with steps, holes, and walls."
+66,段差と穴と壁のあるEvolution Gym環境,"Evolution Gym environment with steps, holes, and walls."
+67,僅かに浮かんだ地面のあるEvolution Gym環境,Evolution Gym environment with slightly elevated ground.
+68,平坦な道に障害物が2つあるEvolution Gym環境,Evolution Gym environment with two obstacles on a flat path.
+69,平坦な道に柔らかいブロックの障害物が3つあるEvolution Gym環境,Evolution Gym environment with three soft block obstacles on a flat path.
+70,3つ穴のある簡単なEvolution Gym環境,A simple Evolution Gym environment with three holes.
+71,徐々に大きくなる階段があるEvolution Gym環境,Evolution Gym environment with gradually increasing stairs.
+72,大きくシンプルなEvolution Gym環境,A large and simple Evolution Gym environment.
+73,大きなオブジェクトが2つ浮いているEvolution Gym環境,Evolution Gym environment with two large floating objects.
+74,地面の他に、柔らかいブロックからなる大きな長方形のオブジェクトと、固いブロックからなる大きなオブジェクトがあるEvolution Gym環境,"In addition to the ground, there's a large rectangular object made of soft blocks and a large object made of solid blocks in the Evolution Gym environment."
+75,階段状のブロックが少し高い位置にある大きなエージェントのためのEvolution Gym環境,"Evolution Gym environment for a larger agent, with stair-like blocks at a slightly higher position."
+76,大きめの穴があるシンプルなEvolution Gym環境,A simple Evolution Gym environment with a larger hole.
+77,柔らかい地面が半分と、普通の固い地面が半分の平坦なEvolution Gym環境,A flat Evolution Gym environment with half of it being soft ground and the other half normal solid ground.
+78,山なりな形状のEvolution Gym環境,Evolution Gym environment with a gently sloping shape.
+79,谷のような形状のEvolution Gym環境,Evolution Gym environment with a valley-like shape.
+80,僅かに壁のように障害物がある、単純なEvolution Gym環境,A simple Evolution Gym environment with obstacles resembling walls.
+81,穴があり、段差の低く、幅の大きな階段状のブロックがあるEvolution Gym環境,"An Evolution Gym environment with holes, low steps, and wide stair-like blocks."
+82,柔らかいブロックが3つあり、内一つが穴の開いた正方形をしているEvolution Gym環境,"Evolution Gym environment with three soft blocks, one of which has a hole and is square-shaped."
+83,シンプルで簡単な、少し段差のあるEvolution Gym環境,A simple and easy Evolution Gym environment with slight steps.
+84,2段の大きめな階段のあるEvolution Gym環境,Evolution Gym environment with two larger steps.
+85,ランダムな階段状のEvolution Gym環境,Evolution Gym environment with a random staircase shape.
+86,シンプルな地面がいくつかあり、穴のあるEvolution Gym環境,A few simple ground areas with holes in the Evolution Gym environment.
+87,少し高い位置から始まるシンプルなEvolution Gym環境,A simple Evolution Gym environment starting from a slightly higher position.
+88,少し段差があり、障害物があるEvolution Gym環境,Evolution Gym environment with slight steps and obstacles.
+89,穴の多い簡単なEvolution Gym環境,A simple Evolution Gym environment with multiple holes.
+90,棒状の障害物が4つあるEvolution Gym環境,Evolution Gym environment with four rod-shaped obstacles.
+91,棒状のオブジェクトの上に、柔らかいブロックが橋のように繋がっているEvolution Gym環境,Evolution Gym environment where soft blocks form a bridge-like structure on top of rod-shaped objects.
+92,山のような形状と、穴のある簡単なEvolution Gym環境,A simple Evolution Gym environment with a mountain-like shape and holes.
+93,柔らかいブロックからなる難易度の低いEvolution Gym環境,Low-difficulty Evolution Gym environment made of soft blocks.
+94,少し複雑な形状で、難易度も少し高そうなEvolution Gym環境,Slightly complex shape and somewhat higher difficulty in the Evolution Gym environment.
+95,洞窟のような形状かつ地面が少し盛り上がっている、あまり難しくはないEvolution Gym環境,"An Evolution Gym environment resembling a cave with slightly raised ground, not too difficult."
+96,段差が大きく、地面に隙間のあるEvolution Gym環境,Evolution Gym environment with large steps and gaps in the ground.
+97,簡単な難易度の単純なEvolution Gym環境,Simple Evolution Gym environment with easy difficulty.
+98,高い壁のあるEvolution Gym環境,Evolution Gym environment with tall walls.
+99,少し難しい穴と階段形状があるEvolution Gym環境,Evolution Gym environment with slightly difficult holes and staircase shapes.
+100,下り階段があるのみで、難易度の易しいEvolution Gym環境,A simple Evolution Gym environment with only descending stairs and easy difficulty.
+101,単純な階段を上る、障害物や穴の無い、難易度の低いEvolution Gym環境,A simple Evolution Gym environment involving ascending a simple staircase with no obstacles or holes.
+102,柔らかいブロックからなる橋のような形状の、簡単なEvolution Gym環境,An easy Evolution Gym environment with a bridge-like shape made of soft blocks.
+103,橋のような形状のEvolution Gym環境,Evolution Gym environment with a bridge-like shape.

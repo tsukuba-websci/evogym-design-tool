@@ -14,6 +14,58 @@ HAND_CURSOR = 1
 
 import random
 import numpy as np
+import time
+from typing import Tuple, Optional
+
+class Timer():
+    """
+    Helpful timer class to set a target step/render frequency. Used for visualizations.
+
+    Args:
+        target_step_frequency (int): target frequency (in steps per second). If `None`, always steps. (default = None)
+    """
+    def __init__(self, target_step_frequency: Optional[int] = None) -> None:
+        self._target_rps = target_step_frequency if target_step_frequency is not None else float('inf')
+        self._total_steps = 0
+        self.total_count = 0
+        self._steps = 0
+        self._old_time = self._current_time()
+
+    def _current_time(self) -> int:
+        """
+        Get the current time in ms.
+
+        Returns:
+            int: current time.
+        """
+        return int(round(time.time() * 1000))
+
+    def should_step(self) -> bool:
+        """
+        Returns whether or not to step at the current time to maintin the target step frequency.
+
+        Returns:
+            bool: whether or not to step (True = should step).
+        """
+        if self._steps >= (self._target_rps-1)*(self._current_time() - self._old_time)/1000:
+            return False
+        return True
+
+    def step(self, verbose=False):
+        """
+        Step the timer.
+
+        Args:
+            verbose (bool): whether or not to print out the current step frequency and the average step frequency since starting the timer. (default = False)
+        """
+        self._steps += 1
+        if self._current_time() - self._old_time > 1000:
+            self._total_steps += self._steps
+            self.total_count += 1
+            self._old_time += 1000
+            if verbose:
+                print(f'rps: {self._steps} | avg rps: {round(self._total_steps/self.total_count*100.0)/100.0}')
+            self._steps = 0
 
 class Node:
     def __init__(self, type):

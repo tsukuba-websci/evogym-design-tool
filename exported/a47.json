@@ -1,0 +1,112 @@
+{
+    "grid_width": 10,
+    "grid_height": 10,
+    "objects": {
+        "new_object_6": {
+            "indices": [
+                44,
+                45
+            ],
+            "types": [
+                1,
+                1
+            ],
+            "neighbors": {
+                "44": [
+                    45
+                ],
+                "45": [
+                    44
+                ]
+            }
+        },
+        "new_object_5": {
+            "indices": [
+                33
+            ],
+            "types": [
+                1
+            ],
+            "neighbors": {
+                "33": []
+            }
+        },
+        "new_object_7": {
+            "indices": [
+                36
+            ],
+            "types": [
+                1
+            ],
+            "neighbors": {
+                "36": []
+            }
+        },
+        "new_object_4": {
+            "indices": [
+                22
+            ],
+            "types": [
+                1
+            ],
+            "neighbors": {
+                "22": []
+            }
+        },
+        "new_object_8": {
+            "indices": [
+                27
+            ],
+            "types": [
+                1
+            ],
+            "neighbors": {
+                "27": []
+            }
+        },
+        "new_object_2": {
+            "indices": [
+                11
+            ],
+            "types": [
+                1
+            ],
+            "neighbors": {
+                "11": []
+            }
+        },
+        "new_object_9": {
+            "indices": [
+                18
+            ],
+            "types": [
+                1
+            ],
+            "neighbors": {
+                "18": []
+            }
+        },
+        "new_object_1": {
+            "indices": [
+                0
+            ],
+            "types": [
+                1
+            ],
+            "neighbors": {
+                "0": []
+            }
+        },
+        "new_object_10": {
+            "indices": [
+                9
+            ],
+            "types": [
+                1
+            ],
+            "neighbors": {
+                "9": []
+            }
+        }
+    }
+}

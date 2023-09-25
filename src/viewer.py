@@ -21,7 +21,7 @@ from OpenGL.GLUT import *
 import colors
 import utils
 
-from evogym import Timer
+from utils import Timer
 
 class Viewer:
 
